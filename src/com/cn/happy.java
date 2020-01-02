@@ -2,7 +2,7 @@ package com.cn;
 
 public class happy {
     public void heihei(){
-
+    System.out.println("新年快乐！");
     }
 
 
